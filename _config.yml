@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "갈갱 개발자"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "갈갱의 샘플 블로그입니다."
+  bio              : "개발자 블로그입니다."
   location         : "South Korea"
   email            :
   links:
