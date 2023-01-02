@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "갈갱 개발자"
-  avatar           : "/assets/images/gal_kyoungjin.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/gal_kyoungjin.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "개발자 블로그입니다."
   location         : "South Korea"
   email            :
