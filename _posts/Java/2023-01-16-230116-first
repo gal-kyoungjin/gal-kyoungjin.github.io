@@ -1,0 +1,52 @@
+---
+layout: single
+title:  "[Java] 객체지향 프로그래밍 1"
+categories: Java
+tag: [Java]
+toc: true
+author_profile: false
+---
+
+# 6-01 객체지향 언어 장점
+
+코드의 재사용성이 높고 유지보수가 용이하다.
+재사용성, 유지보수, 중복된 코드의 제거 -> 3가지 관점에서 공부
+
+***
+
+# 6-02 클래스와 객체
+
+클래스 정의 : 객체를 정의해 높은 것.
+객체 정의 : 실제로 존재하는 것. 사물 또는 개념.
+
+ex)
+TV 설계도 - 클래스
+TV라는 제품 - 객체
+
+***
+
+# 6-03 객체의 구성요소 - 속성과 기능
+
+객체의 속성 - 멤버변수(variable)
+객체의 기능 - 메서드(method)
+
+```java
+class Tv {
+  String color; // 색깔
+  boolean power; // 전원상태
+  int channel; // 채널
+  
+  void power() { power = !power; }
+  void channelUp() { channel++; }
+  void channelDown() { channel--; }
+}
+```
+***
+
+# 6-04 객체와 인스턴스
+
+인스턴스 : 클래스로부터 만들어진 객체
+
+ex)
+책상은 객체다.
+책상은 책상 클래스의 인스턴스다.
