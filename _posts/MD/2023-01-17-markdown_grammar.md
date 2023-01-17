@@ -16,6 +16,7 @@ author_profile: false
 접은 내용(ex 소스 코드)
 </details>
 ```
+
 <details>
 <summary>접기/펼치기</summary>
  
@@ -39,3 +40,16 @@ author_profile: false
 |왼쪽정렬|오른쪽정렬|중앙정렬|  
 |왼쪽정렬|오른쪽정렬|중앙정렬|  
 |왼쪽정렬|오른쪽정렬|중앙정렬|
+
+***
+
+
+# 체크 리스트
+
+```html
+- [x] this is a complete item
+- [ ] this is an incomplete item
+```
+
+- [x] this is a complete item
+- [ ] this is an incomplete item
