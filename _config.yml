@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "갈갱"
+title                    : "갈갱노트"
 title_separator          : "|"
-subtitle                 : "small postive action"
+subtitle                 : "gal note"
 name                     : "gal-kyoungjin"
 description              : "갈갱의 블로그"
 url                      : "https://gal-kyoungjin.github.io"
@@ -109,7 +109,7 @@ collections:
 
 # Site Author
 author:
-  name             : "갈갱 개발자"
+  name             : "늦깎이 개발자"
   avatar           : "/assets/images/gal_kyoungjin.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "개발자 블로그입니다."
   location         : "South Korea"
