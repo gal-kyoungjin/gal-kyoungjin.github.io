@@ -43,7 +43,6 @@ author_profile: false
 
 ***
 
-
 # 체크 리스트
 
 ```html
@@ -53,3 +52,28 @@ author_profile: false
 
 - [x] this is a complete item
 - [ ] this is an incomplete item
+
+***
+
+# 순서가 있는 리스트
+
+```html
+1. 순서가
+2. 있는
+   1. 목록
+      - 하나
+      - 둘
+   2. 목록
+       - 하나
+       - 둘
+3. 목록
+```
+1. 순서가
+2. 있는
+   1. 목록
+      - 하나
+      - 둘
+   2. 목록
+       - 하나
+       - 둘
+3. 목록
