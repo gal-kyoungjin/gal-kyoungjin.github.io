@@ -9,9 +9,9 @@ author_profile: false
 
 # 키 설명
 
-control : ```^```  
-option : ```⌥```  
-command : ```⌘```  
+- control : ```^```  
+- option : ```⌥```  
+- command : ```⌘```  
 
 ***
 
