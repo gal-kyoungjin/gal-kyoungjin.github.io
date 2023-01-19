@@ -92,7 +92,6 @@ __볼드(진하게)__
 # 링크삽입
 
 https://naver.com
-<https://naver.com>
 
 네이버 주소가 궁금하다면, [네이버](https://naver.com)를 클릭하세요.
 
